@@ -1,4 +1,4 @@
-# Basic HTML
+# Basic CSS
 
 Basic CSS code to help me better understand the language.    
 <br>
